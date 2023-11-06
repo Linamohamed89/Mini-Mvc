@@ -131,7 +131,7 @@ abstract class BaseModel
 
         } else {
             //insert
-            //$columns = "firstname, surename, email, girokonto_id, sparbuch_id";
+            //$columns = "firstname, surename, email;
             $columns = "";
             //$values = '".$_POST['firstname']."', '".$_POST['surename']."', '".$_POST['email']."', NULL, NULL
             $values = "";
